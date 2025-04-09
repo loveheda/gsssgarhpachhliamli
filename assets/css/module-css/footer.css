@@ -4,7 +4,7 @@
 .site-footer {
     position: relative;
     display: block;
-    background-color: var(--fistudy-black);
+    background-color: #000000;
     padding: 60px 0 0;
     z-index: 1;
 }
@@ -25,7 +25,7 @@
 .site-footer__logo-and-contact-box {
     position: relative;
     display: block;
-    background-color: var(--fistudy-black);
+    background-color: #000000;
 }
 
 .site-footer__logo-and-contact-box-inner {

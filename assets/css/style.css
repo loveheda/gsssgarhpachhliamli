@@ -45,7 +45,7 @@
 body {
   font-family: var(--fistudy-font);
   color: var(--fistudy-gray);
-  font-size: 18px;
+  font-size: 20px;
   line-height: 27px;
   font-weight: 400;
 }
@@ -690,7 +690,7 @@ ul {
 .main-menu__top {
   position: relative;
   display: block;
-  background-color: #052244;
+  background-color: #000000;
 }
 
 .main-menu__top .container {

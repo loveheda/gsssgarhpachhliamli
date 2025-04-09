@@ -27696,7 +27696,7 @@ button.ui-button::-moz-focus-inner {
 .site-footer {
     position: relative;
     display: block;
-    background-color: var(--fistudy-black);
+    background-color: #000000;
     padding: 60px 0 0;
     z-index: 1;
 }
@@ -27717,7 +27717,7 @@ button.ui-button::-moz-focus-inner {
 .site-footer__logo-and-contact-box {
     position: relative;
     display: block;
-    background-color: var(--fistudy-black);
+    background-color: #000000;
 }
 
 .site-footer__logo-and-contact-box-inner {
@@ -42321,7 +42321,7 @@ ul {
 .main-menu__top {
   position: relative;
   display: block;
-  background-color: #052244;
+  background-color: #000000;
 }
 
 .main-menu__top .container {

@@ -4,7 +4,7 @@
 .counter-one {
     position: relative;
     display: block;
-    background-color: var(--fistudy-base);
+    background-color: #06402B;
     overflow: hidden;
     z-index: 1;
 }
